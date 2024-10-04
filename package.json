@@ -1,0 +1,17 @@
+{
+    "name": "lm35",
+    "description": "An extension for reading LM35 temperature sensor data.",
+    "version": "0.1.0",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts",
+        "blocks.ts"
+    ],
+    "testFiles": [],
+    "targetVersions": {
+        "target": "microbit",
+        "min": "1.0.0"
+    }
+}
